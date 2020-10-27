@@ -5,7 +5,7 @@
 
             <div class="profile">
                 <img src="<?php echo home_url(); ?>/wp-content/themes/iPortafolio/assets/img/profile-img.jpg" alt="" class="img-fluid rounded-circle">
-                <h1 class="text-light"><a href="index.html">Luis Molina</a></h1>
+                <h1 class="text-light"><a href="index.html">Luis dfffsdsffMolina</a></h1>
                 <div class="social-links mt-3 text-center">
                     <a href="https://twitter.com/Luis1k84" class="twitter"><i class="bx bxl-twitter"></i></a>
                     <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
