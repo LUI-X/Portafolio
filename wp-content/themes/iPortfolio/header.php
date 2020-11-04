@@ -4,14 +4,14 @@
         <div class="d-flex flex-column">
 
             <div class="profile">
-                <img src="<?php echo home_url(); ?>/wp-content/themes/iPortafolio/assets/img/profile-img.jpg" alt="" class="img-fluid rounded-circle">
-                <h1 class="text-light"><a href="index.html">Luis dfffsdsffMolina</a></h1>
+                <img src="<?php echo home_url(); ?>/wp-content/uploads/2020/10/me.jpg" alt="" class="img-fluid rounded-circle">
+                <h1 class="text-light"><a href="index.html">Luis Molina</a></h1>
                 <div class="social-links mt-3 text-center">
                     <a href="https://twitter.com/Luis1k84" class="twitter"><i class="bx bxl-twitter"></i></a>
-                    <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
+                    <a href="#" class="blogger"><i class="bx bxl-blogger"></i></a>
                     <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
                     <a href="https://www.linkedin.com/in/luis-alberto-molina-rodriguez-22963a185/" class="linkedin"><i class="bx bxl-linkedin"></i></a>
-                    <a href="https://github.com/LUI-X/" class="Github"><i class="bx bxl-linkedin"></i></a>
+                    <a href="https://github.com/LUI-X/" class="Github"><i class="bx bxl-github"></i></a>
                 </div>
             </div>
 
